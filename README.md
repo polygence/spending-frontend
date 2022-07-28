@@ -72,8 +72,6 @@ This is an opportunity for you to show us what your best code looks like. While 
 - Unit tests
 - Error handling
 
-If there are any pre-existing patterns in the code that you don't like, feel free to change them!
-
 ### Not required, but nice to have
 
 - Use a web application framework (eg. React)
