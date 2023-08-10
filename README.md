@@ -79,7 +79,7 @@ This is an opportunity for you to show us what your best code looks like. While 
 
 ## The backend API
 
-Base url and API docs: https://polygence-spendtracker.herokuapp.com
+Base url and API docs: https://shielded-depths-43687-bb049deacd16.herokuapp.com
 
 ### `GET /spendings/`
 
@@ -94,7 +94,7 @@ Query parameters:
 
 #### Response
 
-Example: https://polygence-spendtracker.herokuapp.com/spendings/
+Example: https://shielded-depths-43687-bb049deacd16.herokuapp.com/spendings/
 
 ### `POST /spendings/`
 
@@ -116,4 +116,4 @@ Where:
 
 #### Response
 
-Example: https://polygence-spendtracker.herokuapp.com/spendings/1/
+Example: https://shielded-depths-43687-bb049deacd16.herokuapp.com/spendings/1/
